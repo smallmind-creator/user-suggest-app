@@ -344,6 +344,9 @@ onUnmounted(() => {
 /* Настоящий инпут */
 .main-input {
   background: transparent;
+
+  caret-color: transparent;
+
   border: none;
   outline: none;
   font-family: 'Montserrat', sans-serif;
